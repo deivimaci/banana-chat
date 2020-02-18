@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/banana-chat/static/css/main.f9d9c408.chunk.css",
+    "main.css": "/banana-chat/static/css/main.5748157c.chunk.css",
     "main.js": "/banana-chat/static/js/main.0386151e.chunk.js",
     "main.js.map": "/banana-chat/static/js/main.0386151e.chunk.js.map",
     "runtime-main.js": "/banana-chat/static/js/runtime-main.8f362773.js",
@@ -8,9 +8,9 @@
     "static/js/2.c2028af6.chunk.js": "/banana-chat/static/js/2.c2028af6.chunk.js",
     "static/js/2.c2028af6.chunk.js.map": "/banana-chat/static/js/2.c2028af6.chunk.js.map",
     "index.html": "/banana-chat/index.html",
-    "precache-manifest.bf5b5e0e1b9269cbcd7a91e229cead9e.js": "/banana-chat/precache-manifest.bf5b5e0e1b9269cbcd7a91e229cead9e.js",
+    "precache-manifest.41801f4ed9af4a12903e6de988f571e3.js": "/banana-chat/precache-manifest.41801f4ed9af4a12903e6de988f571e3.js",
     "service-worker.js": "/banana-chat/service-worker.js",
-    "static/css/main.f9d9c408.chunk.css.map": "/banana-chat/static/css/main.f9d9c408.chunk.css.map",
+    "static/css/main.5748157c.chunk.css.map": "/banana-chat/static/css/main.5748157c.chunk.css.map",
     "static/js/2.c2028af6.chunk.js.LICENSE.txt": "/banana-chat/static/js/2.c2028af6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/banana-chat/static/media/background.a2a988bf.png",
     "static/media/banana.svg": "/banana-chat/static/media/banana.df6d4afe.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.8f362773.js",
     "static/js/2.c2028af6.chunk.js",
-    "static/css/main.f9d9c408.chunk.css",
+    "static/css/main.5748157c.chunk.css",
     "static/js/main.0386151e.chunk.js"
   ]
 }

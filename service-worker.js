@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/banana-chat/precache-manifest.bf5b5e0e1b9269cbcd7a91e229cead9e.js"
+  "/banana-chat/precache-manifest.41801f4ed9af4a12903e6de988f571e3.js"
 );
 
 self.addEventListener('message', (event) => {

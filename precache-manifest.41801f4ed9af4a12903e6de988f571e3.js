@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef7a5d69ff51a9ffa88f84e64b0d69fa",
+    "revision": "630d19847c19dd9b5fd1a0eca7187e78",
     "url": "/banana-chat/index.html"
   },
   {
-    "revision": "2dea3d2f763b5fa47a3e",
-    "url": "/banana-chat/static/css/main.f9d9c408.chunk.css"
+    "revision": "25baec9e4b54381ac603",
+    "url": "/banana-chat/static/css/main.5748157c.chunk.css"
   },
   {
     "revision": "74d0be3bb92b21724af9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/banana-chat/static/js/2.c2028af6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2dea3d2f763b5fa47a3e",
+    "revision": "25baec9e4b54381ac603",
     "url": "/banana-chat/static/js/main.0386151e.chunk.js"
   },
   {
